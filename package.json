@@ -293,5 +293,8 @@
     "lint-fix": "eslint --fix lib test index.js .eslintrc.js",
     "test": "tap test/*-test.js "
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mitt": "^3.0.1"
+  }
 }
