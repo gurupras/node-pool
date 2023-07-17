@@ -1,5 +1,5 @@
 {
-  "name": "generic-pool",
+  "name": "@gurupras/generic-pool",
   "description": "Generic resource pooling for Node.JS",
   "homepage": "https://github.com/coopernurse/node-pool#readme",
   "version": "3.9.0",
